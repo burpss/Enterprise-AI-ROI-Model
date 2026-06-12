@@ -39,4 +39,4 @@ Visualized the 3-Year Breakeven Curve using continuous running totals to pinpoin
 
 Built a granular Monthly Cash Flow chart utilizing boolean color-coding to monitor operational runway.
 
-[View the Executive Presentation here](./Enterprise_AI_and_ROI_Model.pptx)
+[View the Executive Presentation here](./Enterprise%20AI%20and%20ROI%20Model.pptx)
