@@ -1,4 +1,4 @@
-# Enterprise-AI-ROI-Model
+# Enterprise AI and ROI Model
 Financial model and ETL pipeline for an Enterprise AI implementation
 Enterprise AI ROI & Transformation Model
 Project Overview
