@@ -38,3 +38,5 @@ Engineered custom calculated fields (e.g., Net Cash) to automatically process co
 Visualized the 3-Year Breakeven Curve using continuous running totals to pinpoint the exact month of profitability.
 
 Built a granular Monthly Cash Flow chart utilizing boolean color-coding to monitor operational runway.
+
+[View the Executive Presentation here](./Enterprise_AI_and_ROI_Model.pptx)
